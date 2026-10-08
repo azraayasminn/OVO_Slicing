@@ -1,17 +1,5 @@
-# ovo_slicing
+Screnshoot Hasil
 
-A new Flutter project.
+<img width="371" height="502" alt="Screenshot 2026-10-08 145153" src="https://github.com/user-attachments/assets/cf863325-17bf-4017-88af-ee442acc18a7" />
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="374" height="503" alt="Screenshot 2026-10-08 145209" src="https://github.com/user-attachments/assets/370abe7a-e7ee-4180-9d07-ea801201c471" />
